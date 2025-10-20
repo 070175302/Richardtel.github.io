@@ -1,6 +1,6 @@
 # Project 1
 
-**Title:** Global Superstore Sales
+**Title:** [Global Superstore Sales](Global_Sales.pbix)
 
 **Tools Used:** Power BI
 
