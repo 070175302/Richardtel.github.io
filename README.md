@@ -10,7 +10,7 @@
 
 **Dashboard Overview:** The insights from this project support strategic decision-making, helping management optimize pricing, improve inventory distribution, and enhance customer satisfaction globally.
 
-![Global_Superstore](Global_Superstore.png)
+![Global_Superstore](Global_Superstore.PNG)
 
 # Project 2
 
