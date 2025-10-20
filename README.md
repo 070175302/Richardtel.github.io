@@ -14,14 +14,26 @@
 
 # Project 2
 
-**Title:** [Product Sales Performance](product_sales_dashboard.xls)
+**Title:** [Student_performance](product_sales_dashboard.xls)
 
 **Tools Used:** Microsoft Excel (Power Query, PivotTables, Data Visualization, Dashboard Design, Sales Analysis, Business Insights)
 
-**Project Description:** This project focuses on analyzing and visualizing product sales performance for 2023 using Microsoft Excel. The goal was to uncover key insights into revenue, profit, and sales trends across different product categories, customer segments, and regions. The dataset was cleaned and organized using Excel’s data tools, including PivotTables, Power Query, and Formulas, to ensure accuracy and consistency. An interactive Excel dashboard was then created to help track key performance indicators such as Total Sales, Profit Margin, Quantity Sold, and Average Discount.
+**Project Description:** The Student Performance Analysis project explores the relationship between academic outcomes and key influencing factors such as exam scores, gender, parental involvement, distance from home, family income, and school type. The aim was to identify patterns that impact student achievement and provide actionable insights for improving educational performance and support systems.
 
-**Key findings:** The analysis reveals that the profit margins across the four regions show only a slight variation, with a difference of approximately 10% between the highest and lowest performing regions. This indicates relatively consistent profitability across markets. Additionally, Michael Smith stands out as the top customer, generating a total profit of $18,081.21. Among products, the Tempur-Pedic Mattress recorded the highest profit contribution, while the Home and Furniture category emerged as the most profitable product segment overall.
+Using Microsoft Excel, the dataset was cleaned, transformed, and analyzed to uncover meaningful trends. The resulting interactive dashboard presents a comprehensive view of student performance, helping educators, policymakers, and stakeholders make informed decisions to enhance learning outcomes and equity in education.
 
-**Dashboard Overview:** Through this analysis, I identified top-performing and underperforming products, examined sales trends over time, and provided actionable insights to support marketing decisions.
+**Key findings:**
 
-![Product_Sales](Product_Sales.PNG)
+Parental involvement showed a strong positive correlation with higher exam scores especially for male students with medium parental engagement performed significantly better than those with high and low involvement.
+
+Family income and School type influenced performance as well; students from medium-income families tended to score better than those with high-icome and also Students attending public perform better than those attending private schools.
+
+Students staying close to the school with more access to resources performed better than those that don't.
+
+Gender performance differences revealed clearly that the male students scored higher than the female students.
+
+Public school students generally outperformed their private school counterparts, particularly in consistency and overall average scores.
+
+**Dashboard Overview:** The Excel dashboard offers an intuitive and visual summary of student performance metrics across various dimensions. It includes dynamic charts, pivot tables, and slicers that allow users to explore data interactively based on gender, income level, and parental involvement.
+
+![Student_performance](Student_performance.PNG)
