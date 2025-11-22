@@ -75,5 +75,12 @@ Public school students generally outperformed their private school counterparts,
 4.  Data Source Specification (FROM): Specified the tables used as data sources for retrieval
 
 **Project Description:** 
+The Workplace Safety SQL Analysis Project focuses on using SQL Server to analyze and interpret data from an HR database to support safety monitoring and decision-making within the organization. The project demonstrates the use of essential SQL querying techniques to retrieve, filter, and aggregate workplace safety–related information.
+
+By leveraging SQL functions such as SELECT, SUM, and COUNT, the project extracts key insights, including the total number of safety incidents, employee participation in safety programs, department-level safety statistics, and overall safety performance trends. Data filtering using WHERE, BETWEEN, IN, and AND was applied to narrow down records by date ranges, departments, categories, and incident types.
+
+The project also emphasizes accurate source selection through the FROM clause to ensure data is retrieved from the correct HR tables. The final output provides meaningful summaries that can assist management in understanding safety patterns, identifying high-risk areas, and making data-informed decisions to improve workplace safety protocols.
+
+Built using SQL Server, this project showcases practical data analysis skills applicable to real workplace environments, demonstrating how SQL can be used to enhance safety oversight and support organizational compliance efforts.
 
 **Technology Used:** SQL Server
